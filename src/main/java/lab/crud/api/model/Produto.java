@@ -22,7 +22,7 @@ public class Produto {
 	
 	public Produto() {
 		
-	}
+	} 
 
 	//Alt + SHIFT + S(Source/Fonte/Código Fonte)
 	public Integer getId() {
